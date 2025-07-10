@@ -4,7 +4,7 @@ public class Principal {
         Filme meuFilme = new Filme();
 
         meuFilme.nome = "O Poderoso Chefão";
-        meuFilme.anodeLancamento = 1970;
+        meuFilme.anodeLancamento = 1969;
         meuFilme.duracaoEmMinutos = 180;
 
         System.out.println(meuFilme.nome);
