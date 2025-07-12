@@ -18,6 +18,6 @@ public class Principal {
         System.out.println(meuFilme.pegaMedia());
 
     }
-    https://cursos.alura.com.br/course/java-aplicando-orientacao-objetos/task/125821
+    //cursos.alura.com.br/course/java-aplicando-orientacao-objetos/task/125821
 }
 
